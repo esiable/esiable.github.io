@@ -1,13 +1,13 @@
 {
-  "main.css": "/rx/static/css/main.454bd9df.chunk.css",
-  "main.js": "/rx/static/js/main.5aab3dc3.chunk.js",
-  "main.js.map": "/rx/static/js/main.5aab3dc3.chunk.js.map",
-  "runtime~main.js": "/rx/static/js/runtime~main.22e24fe2.js",
-  "runtime~main.js.map": "/rx/static/js/runtime~main.22e24fe2.js.map",
-  "static/js/2.86a2265c.chunk.js": "/rx/static/js/2.86a2265c.chunk.js",
-  "static/js/2.86a2265c.chunk.js.map": "/rx/static/js/2.86a2265c.chunk.js.map",
-  "index.html": "/rx/index.html",
-  "precache-manifest.393ca55a04291887d0a269daaade8b03.js": "/rx/precache-manifest.393ca55a04291887d0a269daaade8b03.js",
-  "service-worker.js": "/rx/service-worker.js",
-  "static/css/main.454bd9df.chunk.css.map": "/rx/static/css/main.454bd9df.chunk.css.map"
+  "main.css": "/testio/static/css/main.454bd9df.chunk.css",
+  "main.js": "/testio/static/js/main.5aab3dc3.chunk.js",
+  "main.js.map": "/testio/static/js/main.5aab3dc3.chunk.js.map",
+  "runtime~main.js": "/testio/static/js/runtime~main.b35cc27b.js",
+  "runtime~main.js.map": "/testio/static/js/runtime~main.b35cc27b.js.map",
+  "static/js/2.86a2265c.chunk.js": "/testio/static/js/2.86a2265c.chunk.js",
+  "static/js/2.86a2265c.chunk.js.map": "/testio/static/js/2.86a2265c.chunk.js.map",
+  "index.html": "/testio/index.html",
+  "precache-manifest.9cbcce1021fee7477bf8f572837a74e9.js": "/testio/precache-manifest.9cbcce1021fee7477bf8f572837a74e9.js",
+  "service-worker.js": "/testio/service-worker.js",
+  "static/css/main.454bd9df.chunk.css.map": "/testio/static/css/main.454bd9df.chunk.css.map"
 }
